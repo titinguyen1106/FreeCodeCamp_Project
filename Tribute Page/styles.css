@@ -1,0 +1,40 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #E9F1DF;
+  font-size:initial;
+  line-height:2;
+}
+
+#title {
+  text-align: center;
+  font-size:80px;
+  font-style:bolditalic;
+}
+
+h2 {
+  text-align: center;
+  font-style:bold;
+}
+
+p {
+  text-align: center;
+  
+}
+
+#image {
+  max-width: 800px;
+  max-height: 800px;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info {
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+    
+}
